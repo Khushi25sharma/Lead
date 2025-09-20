@@ -1,3 +1,20 @@
+
+
+# To run install dependencies in main directory and /backend
+```
+npm i
+cd backend
+npm i
+```
+## and install mongodb 
+
+
+
+
+
+
+
+
 # 🧪 Lead Management Task (Frontend / Backend / Full Stack)
 
 Thank you for showing interest in our Full Stack Developer role!
